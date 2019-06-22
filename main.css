@@ -17,7 +17,7 @@ a:hover {
 }
 
 a:active {
-  color: #0000ff;
+  color: #7FFF00;
 }
 
 header {
@@ -253,7 +253,7 @@ body {
 
 #panel-right {
   min-width: 500px;
-  background: #5A57FF;
+  background: #C5E3BF;
   display: flex;
   flex: 1;
   align-content: center;
